@@ -1,14 +1,30 @@
 {
   "name": "reducer-mini",
   "version": "0.0.1",
-  "description": "Lightweight reducer module written on top of react Hooks for small and medium applications.",
+  "description": "Lightweight State Management library written on top of react Hooks for small and medium applications.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chandrasekar",
   "license": "ISC",
-  "dependencies": {
-    "react": "^17.0.1"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chancmg/reducer-mini.git"
+  },
+  "keywords": [
+    "reactjs",
+    "reducer",
+    "react",
+    "react reducer",
+    "redux",
+    "state management"
+  ],
+  "bugs": {
+    "url": "https://github.com/chancmg/reducer-mini/issues"
+  },
+  "devDependencies": {
+    "react": "17.0.1"
+  },
+  "homepage": "https://github.com/chancmg/reducer-mini"
 }
