@@ -1,0 +1,14 @@
+{
+  "name": "reducer-mini",
+  "version": "0.0.1",
+  "description": "Lightweight reducer module written on top of react Hooks for small and medium applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandrasekar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
