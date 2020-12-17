@@ -24,6 +24,7 @@
     "url": "https://github.com/chancmg/reducer-mini/issues"
   },
   "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.12.11",
     "react": "17.0.1"
   },
   "homepage": "https://github.com/chancmg/reducer-mini"

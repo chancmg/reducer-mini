@@ -1,0 +1,4 @@
+/**
+ * Initial todoState
+ */
+export default {};
