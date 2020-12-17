@@ -1,6 +1,6 @@
 {
   "name": "reducer-mini",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lightweight State Management library written on top of react Hooks for small and medium applications.",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,18 @@
   },
   "devDependencies": {
     "@babel/plugin-transform-react-jsx": "^7.12.11",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
     "react": "17.0.1"
   },
-  "homepage": "https://github.com/chancmg/reducer-mini"
+  "homepage": "https://github.com/chancmg/reducer-mini",
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-react-jsx"
+    ]
+  }
 }
