@@ -1,6 +1,6 @@
 {
   "name": "reducer-mini",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Lightweight State Management library written on top of react Hooks for small and medium applications.",
   "main": "dist/index.js",
   "scripts": {
